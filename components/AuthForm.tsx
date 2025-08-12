@@ -154,6 +154,27 @@ const AuthForm = ({ type }: { type: FormType }) => {
                     </Link>
                 </p>
             </div>
+            <footer className="py-4 text-center text-sm text-gray-500">
+                Made with ❤️ by Sudhir Singh (
+                <a
+                    href="https://linkedin.com/in/sudhir-singh-840603250"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-600 hover:underline mx-1"
+                >
+                    LinkedIn
+                </a>
+                |
+                <a
+                    href="https://github.com/SudhirSingh62"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-600 hover:underline mx-1"
+                >
+                    GitHub
+                </a>
+                )
+            </footer>
         </div>
     );
 };
