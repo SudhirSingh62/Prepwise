@@ -1,4 +1,4 @@
-# 🧠 Prepwise – AI-Driven Mock Interview Platform  
+# 🧠 Prepwise : AI Driven Mock Interview Platform  
 💼 **Your Personal AI Interview Coach**  
 
 Prepwise is a next-generation AI-powered mock interview platform designed to prepare you for real-world job interviews through interactive voice conversations, instant AI feedback, and personalized coaching.  
@@ -15,13 +15,13 @@ Built with cutting-edge tech like **Next.js**, **Vapi AI**, and **Google Gemini*
 
 ## 🔋 Key Features  
 
-- 🗣 **AI Voice Interviews** – Realistic mock interviews with Vapi AI Voice Agents  
-- 🧠 **Smart AI Feedback** – Instant, detailed performance insights via Google Gemini  
-- 🔐 **Secure Authentication** – Powered by Firebase Auth  
-- 📊 **Performance Dashboard** – Review transcripts and track progress over time  
-- 🎨 **Modern UI/UX** – Tailwind CSS + shadcn/ui for sleek, responsive design  
-- 📱 **Fully Responsive** – Works seamlessly on desktop, tablet, and mobile  
-- 🏗 **Scalable Architecture** – Modular, reusable components for easy maintenance  
+- 🗣 **AI Voice Interviews** : Realistic mock interviews with Vapi AI Voice Agents  
+- 🧠 **Smart AI Feedback** : Instant, detailed performance insights via Google Gemini  
+- 🔐 **Secure Authentication** : Powered by Firebase Auth  
+- 📊 **Performance Dashboard** : Review transcripts and track progress over time  
+- 🎨 **Modern UI/UX** : Tailwind CSS + shadcn/ui for sleek, responsive design  
+- 📱 **Fully Responsive** : Works seamlessly on desktop, tablet, and mobile  
+- 🏗 **Scalable Architecture** : Modular, reusable components for easy maintenance  
 
 ---
 
